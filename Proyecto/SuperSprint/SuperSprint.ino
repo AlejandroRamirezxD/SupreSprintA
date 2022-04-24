@@ -1,6 +1,4 @@
-/********************************************
-// DAVID AMA LAS AXILAS
-/*********************************************
+
 //***************************************************************************************************************************************
 /* Librería para el uso de la pantalla ILI9341 en modo 8 bits
    Basado en el código de martinayotte - https://www.stm32duino.com/viewtopic.php?t=637
